@@ -9,6 +9,11 @@ A Postman-like application to make HTTP requests, built to be extremely simple a
 - JSON response formatting
 - Lightweight and fast
 
+## Screenshots
+
+![Dark mode](resources/screenshots/dark.png "Dark mode")
+![Light mode](resources/screenshots/light.png "Light mode")
+
 ## Dependencies
 
 This project uses the following Rust crates:
