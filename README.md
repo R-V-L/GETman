@@ -30,8 +30,8 @@ To build this project, you need to have Rust installed. If you don't have Rust y
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/simple-http-requester.git
-cd simple-http-requester
+git clone https://github.com/R-V-L/GETman/
+cd GETman
 ```
 
 Install dependencies and build:
