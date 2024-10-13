@@ -37,9 +37,6 @@ cd GETman
 Install dependencies and build:
 ```bash
 cargo build --release
-```
-
-```bash
 cargo run
 ```
 
